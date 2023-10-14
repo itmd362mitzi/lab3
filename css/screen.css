@@ -213,7 +213,7 @@ main {
   padding-bottom: 50px;
   padding-left: 50px;
 }
-input[type="text"] {
+input[type="email"] {
   background-color: #bebebe;
   border: 0; 
 }
