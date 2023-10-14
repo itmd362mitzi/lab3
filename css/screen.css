@@ -219,10 +219,10 @@ input[type="email"] {
   padding: 20px;
 }
 
-input[type="input-age-verification"] {
+input[type="checkbox"] {
  background-color: #595959;
  border: 0; 
-padding: 20px;
+ padding: 20px;
 }
 
 input[type="submit"] {
