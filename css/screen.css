@@ -216,4 +216,18 @@ main {
 input[type="email"] {
   background-color: #bebebe;
   border: 0; 
+  padding: 20px;
 }
+
+input[type="checkbox"] {
+ background-color: #595959;
+ border: 0; 
+padding: 20px;
+}
+
+input[type="submit"] {
+ background-color: #9c9c9c;
+ border: 0; 
+ padding: 20px;
+}
+
