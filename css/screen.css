@@ -219,7 +219,7 @@ input[type="email"] {
   padding: 20px;
 }
 
-input[type="checkbox"] {
+input[type="input-age-verification"] {
  background-color: #595959;
  border: 0; 
 padding: 20px;
