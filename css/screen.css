@@ -226,8 +226,21 @@ input[type="checkbox"] {
 }
 
 input[type="submit"] {
- background-color: #9c9c9c;
- border: 0; 
- padding: 20px;
+  background-color: #9c9c9c;
+  border: 0; 
+  padding: 20px;
+}
+h1 {
+  font-size: 30px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+ font-family: "Roboto Slab", Times, serif;
 }
 
+li {
+ font-size: 20px;
+ padding-top: 20px;
+ padding-bottom: 20px;
+ font-family: "Roboto", Times, serif;
+}
+   
