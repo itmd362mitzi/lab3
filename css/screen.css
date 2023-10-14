@@ -213,3 +213,7 @@ main {
     padding-bottom: 50px;
     padding-left: 50px;
 }
+form {
+   background-color: #bebebe;
+   border: 0; 
+}
